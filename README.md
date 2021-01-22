@@ -1,2 +1,3 @@
 # rsschool-cv
-CV in markdown format
+
+[my CV](https://burik84.github.io/rsschool-cv/cv)
