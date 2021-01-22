@@ -24,3 +24,7 @@
 + htmlacademy.ru, freecodecamp.org, udemy.com
 + RS 2020 Q1, RS JS/FE 2020Q3
 + RSS React 2020Q3
+
+## English
+
++ A2 - elementary
