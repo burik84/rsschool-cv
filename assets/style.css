@@ -1,5 +1,5 @@
 body {
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: 'Helvetica', 'Arial', sans-serif;
   width: 100%;
   max-width: 1024px;
   margin: 0 auto;
@@ -12,12 +12,22 @@ header,
 main {
   width: 100%;
   max-width: 640px;
-  margin: 0 auto;
-  padding: 32px;
+  margin: 8px auto;
 }
-
+header {
+  display: flex;
+  flex-direction: row;
+}
+header > div {
+  margin: 16px;
+}
+.cv-img {
+  height: 160px;
+  overflow: hidden;
+  border-radius: 5px;
+}
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: inherit;
 }
 
