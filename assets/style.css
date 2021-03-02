@@ -14,18 +14,22 @@ main {
   max-width: 640px;
   margin: 8px auto;
 }
+
 header {
   display: flex;
   flex-direction: row;
 }
+
 header > div {
   margin: 16px;
 }
+
 .cv-img {
   height: 160px;
   overflow: hidden;
   border-radius: 5px;
 }
+
 a {
   text-decoration: underline;
   color: inherit;
@@ -42,6 +46,7 @@ section li:last-child {
 footer {
   padding-bottom: 16px;
 }
+
 footer ul {
   display: flex;
   flex-direction: row;
@@ -49,6 +54,7 @@ footer ul {
   justify-content: space-between;
   align-items: center;
 }
+
 footer ul img {
   height: 32px;
 }
