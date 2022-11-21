@@ -9,6 +9,7 @@
 
 + [avburik84@gmail.com](mailto:avburik84@gmail.com)
 + [@burikav](https://t.me/burikav)
++ discord - AlexBur(@burik84) #8428
 
 ## Skills
 
