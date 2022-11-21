@@ -25,6 +25,18 @@
   + git
 + Node.js
 
+## Code Example
+
+```javascript
+function isPrime(num){
+    if(n===1||n===0) return false
+    for(let i=2;i*i<=num;i+=1){
+      if(num%i===0) return false
+    }
+    return true
+  }
+```
+
 ## Experience
 
 + RS JS/FE 2020Q3 - teamwork [covid-dashboard](https://rolling-scopes-school.github.io/burik84-JS2020Q3/covid-dashboard/build/index.html). My contribution - block chart and fixed mistakes
