@@ -5,6 +5,11 @@
     <figcaption>I want to be better. Frontend was my hobby but now I want to continue - participation in the project or a career</figcaption>
 </figure>
 
+## Contacts
+
++ [avburik84@gmail.com](mailto:avburik84@gmail.com)
++ [@burikav](https://t.me/burikav)
+
 ## Skills
 
 + html
@@ -37,8 +42,3 @@
 ## English
 
 + A1 [efset sertificate](https://www.efset.org/cert/ADdS82) - but I continue to study
-
-## Contacts
-
-+ [avburik84@gmail.com](mailto:avburik84@gmail.com)
-+ [@burikav](https://t.me/burikav)
