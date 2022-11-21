@@ -1,2 +1,3 @@
-# rsschool-cv
-CV fro RS school
+# RS School -cv
+
+CV for RS school
