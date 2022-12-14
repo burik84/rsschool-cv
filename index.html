@@ -13,7 +13,7 @@
   <div class="wrapper">
     <header class="header">
       <div class="header__photo">
-        <img src="./assets/images/photo/Alex_Bur.jpg" alt="photo Alexandr" />
+        <img src="./assets/author.jpg" alt="photo Alexandr" />
       </div>
       <div class="header__title">
         <h1>Alexandr Burachevskiy</h1>
@@ -24,7 +24,7 @@
       <div class="about">
         <section>
           <h3>Contacts</h3>
-          <ul>
+          <ul class="list__about">
             <li>
               email:
               <a href="mailto:avburik84@gmail.com" target="_blank">
@@ -33,6 +33,10 @@
             <li>
               telegram:
               <a href="https://t.me/burikav" target="_blank"> @burikav</a>
+            </li>
+
+            <li>
+              discord: AlexBur(@burik84) #8428
             </li>
           </ul>
         </section>
@@ -55,11 +59,14 @@
               telegram:
               <a href="https://t.me/burikav" target="_blank"> @burikav</a>
             </li>
+            <li>
+              discord: AlexBur(@burik84) #8428
+            </li>
           </ul>
         </section>
         <section>
           <h3>Skills</h3>
-          <ul>
+          <ul class="list__skill">
             <li>html</li>
             <li>
               css & scss
@@ -132,6 +139,20 @@
             </ul>
           </section>
           <section>
+            <h3>Code Example</h3>
+            <pre>
+              <code>
+                function isPrime(num){
+                  if (n===1||n===0) return false
+                  for (let i=2; i*i<=num; i+=1){
+                    if (num%i===0) return false
+                  }
+                  return true
+                }
+              </code>
+            </pre>
+          </section>
+          <section>
             <h3>English</h3>
             <p>
               A1 - elementary.
@@ -148,9 +169,9 @@
         <li>
           <a href="https://github.com/burik84" target="_blank"> burik84</a>
         </li>
-        <li>2021</li>
+        <li>2022</li>
         <li>
-          <a href="https://rs.school/js/" target="_blank"><img src="./assets/images/rs_school_js.svg"
+          <a href="https://rs.school/js/" target="_blank"><img src="./assets/rs_school_js.svg"
               alt="logo rolling scopes school" /></a>
         </li>
       </ul>

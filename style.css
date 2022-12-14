@@ -107,6 +107,10 @@ main {
   width: 480px;
   /* order: 1; */
 }
+.list__about,
+.list__skill{
+  font-size: 0.8em;
+}
 .cv {
   margin-top: 20px;
   display: flex;
