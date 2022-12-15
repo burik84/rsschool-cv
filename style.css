@@ -11,15 +11,15 @@ body {
   font-size: 18px;
 }
 .wrapper {
-  width: 840px;
+  width:100%;
+  max-width: 840px;
   border-radius: 5px;
-  margin: 0 auto;
+  margin: 20px auto;
   background-color: #eee;
 }
 
 footer,
-header,
-main {
+header{
   width: 100%;
 }
 
@@ -34,7 +34,8 @@ main {
 }
 
 .header__title {
-  width: 480px;
+  width: 100%;
+  max-width: 480px;
   padding-left: 50px;
 }
 
@@ -86,7 +87,7 @@ section > ul {
 }
 main {
   display: flex;
-  margin-top: 20px;
+  margin: 20px;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -104,7 +105,8 @@ main {
   /* order: 2; */
 }
 .about > p {
-  width: 480px;
+  width: 100%;
+  max-width: 480px;
   /* order: 1; */
 }
 .list__about,
@@ -131,7 +133,8 @@ main {
   transform: translateX(-15px);
 }
 .study {
-  width: 480px;
+  width: 100%;
+  max-width: 480px;
 }
 .study > section ~ section {
   margin-top: 20px;
