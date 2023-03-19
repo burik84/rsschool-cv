@@ -42,7 +42,6 @@ function isPrime(num){
 + RS JS/FE 2020Q3 - teamwork [covid-dashboard](https://rolling-scopes-school.github.io/burik84-JS2020Q3/covid-dashboard/build/index.html). My contribution - block chart and fixed mistakes
 + RS JS/FE 2020Q3 [rs-css](https://rolling-scopes-school.github.io/burik84-JS2020Q3/rs-css/build/index.html)
 + RS React 2021 Q1 - teamwork [travel-app](https://anatoliyak.github.io/travel-app/#/). My contribution - page Country
-+ RS React 2021 Q1 - teamwork [RS-LANG](https://rs-lang-74-client.herokuapp.com/main). My contribution - page Dictionary
 
 ## Education
 
